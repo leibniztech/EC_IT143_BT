@@ -1,0 +1,3 @@
+SELECT *
+INTO dbo.t_total_player_salary_per_month
+FROM dbo.v_total_player_salary_per_month;

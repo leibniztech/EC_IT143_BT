@@ -1,0 +1,3 @@
+SELECT *
+INTO dbo.t_credit_card_spending_by_category
+FROM dbo.v_credit_card_spending_by_category;
